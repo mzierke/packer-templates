@@ -21,5 +21,5 @@ if test -f .vbox_version ; then
   rm -f VBoxLinuxAdditions.iso
 
   # Start the newly build driver
-  /etc/init.d/vboxadd start
+  #/etc/init.d/vboxadd start
 fi
